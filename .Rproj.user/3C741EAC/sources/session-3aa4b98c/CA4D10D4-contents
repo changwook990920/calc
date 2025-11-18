@@ -4,6 +4,6 @@
 #' @param name usage
 #' @return
 #' @export
-add <- function(i, j){
-    return(i + j)
+div <- function(i, j){
+  return(i / j)
 }

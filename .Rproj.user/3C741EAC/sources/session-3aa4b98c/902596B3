@@ -3,7 +3,7 @@
     "path": "~/calc/NAMESPACE",
     "project_path": "NAMESPACE",
     "type": "r_namespace",
-    "hash": "3558482914",
+    "hash": "846361006",
     "contents": "",
     "dirty": false,
     "created": 1763441157076.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1763441644,
+    "lastKnownWriteTime": 1763443971,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1763441644,
+    "last_content_update": 1763443971,
     "read_only": true,
     "read_only_alternatives": []
 }
